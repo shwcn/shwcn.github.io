@@ -1,3 +1,2 @@
----
-layout: style
----
+@import url("css/bootstrap.min.css");
+@import url("css/main.css");
