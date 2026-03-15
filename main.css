@@ -478,6 +478,11 @@ footer .footer-below {
     background-color: {{ site.color.secondary-dark }} !important;
 }
 
+.navbar-default {
+    background-color: {{ site.color.secondary }} !important;
+}
+
+
 /* Fix modal mouse wheel issues */
 /* https://github.com/twbs/bootstrap/issues/16297 */
 .modal.fade.in {
