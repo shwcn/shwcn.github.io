@@ -495,3 +495,18 @@ footer .footer-below {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
 }
+
+#about h2 {
+  margin-bottom: 25px;
+}
+
+#about h4 {
+  margin-top: 25px;
+  margin-bottom: 10px;
+}
+
+#about p,
+#about ul {
+  margin-bottom: 20px;
+}
+
