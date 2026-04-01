@@ -193,7 +193,6 @@ section.secondary {
     background: {{ site.color.secondary }};
 }
 
-
 @media(max-width:767px) {
     section {
         padding: 75px 0;
