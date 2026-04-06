@@ -2,7 +2,7 @@
 title: Shawn Burkett
 email: shawn.burkett.05@outlook.com
 url: https://shwcn.github.io
-baseur: /shwcn
+baseurl: ""
 description: "An online website portfolio for Shawn Burkett, a Computer Science student at Tuskegee University."
 keywords: "your keywords, separated by commas"
 skills: "Computer Science Undergraduate | Software Engineer"
@@ -62,5 +62,4 @@ defaults:
   - scope:
       path: ""
       type: "posts"
-    values:
-      permalink: ""
+    values: {}
