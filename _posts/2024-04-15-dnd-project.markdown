@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: project
 modal-id: 1
 date: 2024-04-15
 img: terminal.png

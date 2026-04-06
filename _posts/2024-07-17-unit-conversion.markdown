@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: project
 modal-id: 2
 date: 2024-07-17
 img: calculator.png
