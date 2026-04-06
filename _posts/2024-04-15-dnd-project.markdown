@@ -1,5 +1,6 @@
 ---
-layout: project
+title: DnD Project
+layout: default
 modal-id: 1
 date: 2024-04-15
 img: terminal.png
