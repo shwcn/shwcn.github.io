@@ -5,7 +5,7 @@ date: 2024-07-17
 img: calculator.png
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
+client: DoD NAWCAD
 category: LabVIEW
-description: Created a unit conversion tool for electric units. This task was assigned to me during my summer 2024 internship with the Department of Defense (DoD). 
+description: Created a unit conversion tool for electric units. This task was assigned to me during my summer 2024 internship with the Department of Defense (DoD). I am unable to provide source code for this project due to confidentiality.
 ---
